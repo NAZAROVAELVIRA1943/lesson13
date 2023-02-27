@@ -1,0 +1,41 @@
+.main {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+
+}
+.container {
+    width: 100%;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h2 {
+    font-size: 34PX;  
+}
+
+.class-photo {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+.text-info {
+    width:  400;
+    font-size: 24PX;   
+}
+
+.phone-numbar {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+
